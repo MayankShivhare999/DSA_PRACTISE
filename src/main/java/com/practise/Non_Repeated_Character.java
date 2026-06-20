@@ -1,4 +1,4 @@
-package com.quickcart;
+package com.practise;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
